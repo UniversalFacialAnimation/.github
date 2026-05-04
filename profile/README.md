@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Universal Facial Animation](Universal Facial Animation.png)
+![Universal Facial Animation](./Universal-Facial-Animation.png)
 <!--
 
 **Here are some ideas to get you started:**
